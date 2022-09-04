@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://ak.picdn.net/shutterstock/videos/1061760844/preview/stock-footage-looping-matrix-style-cyrillic-alphabet-code-rain-effect-lightness-to-separate-from-the-background.webm" width="100"/>
-</div>
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-_cwrr_fCdsPjgiJ2sVSayliPZaMzMAPHh0wlDgAFWEXKmnieLO1-sm38CROF8w8nzeqyaB0oJoXdEAEsFHKqFYubpyTSrJQfZaAzWRRahAhgucr2r9ufR5QkZFYVAGiARHNHNx8Sahb5tbdDJ_vmPfBa2YQ8Ev9zReep6URuDSDRUmCf4dfLmAH6/w640-h214/ezgif.com-gif-maker%20(1).gif)
 <h1 align="center">Hi 👋, I'm Sai Harish</h1>
 <h3 align="center">A passionate Explorer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
