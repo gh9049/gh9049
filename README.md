@@ -1,11 +1,14 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0NWZ3i3jjawR_58198aFv52jPdeKKL6VSqIu7dDFmjIO9FLWNZoh9iBUgoQXsprYfbPwt3OwIUDOmpgY2TCOFrEktq__uwHr5fMVlRfL7S-Hk2umxa88ZovBdJOx8tSE6z1kTyS1XXe-z4sKWq3tQa9BfOLPhM_fuuGYxC0-R4LCnTHN8E4amZhjc/w640-h192/rain_matrix.gif)
-<h1 align="center">Hi 👋, I'm Sai Harish</h1>
-<h3 align="center">A passionate Explorer from India</h3>
+![MasterHead](https://github.com/gh9049/gh9049/blob/main/rain_matrix.gif)
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height = "30px">Hi ,I'm Sai Harish </h1>
+
+<h3 align="center">A man with passionate goals</h3>
 <img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh9049&label=Profile%20views&color=0e75b6&style=flat" alt="gh9049" /> </p>
 
-- 🌱 I’m currently learning **Competitive programming**
+- 🌱 I’m currently learning ** Competitive programming **
+
+- 👨‍💻 Intrested in ** Cybersecurity and Ethical hacking **
 
 - 💬 Ask me about **C, C++ , Python , System administration**
 
