@@ -47,4 +47,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gh9049&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/ChetasShree/ChetasShree/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gh9049/gh9049/blob/output/github-contribution-grid-snake.svg)
