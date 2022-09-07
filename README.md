@@ -2,19 +2,23 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height = "30px">Hi ,I'm Sai Harish </h1>
 
 <h3 align="center">A man with passionate goals</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gh9049&label=Profile%20views&color=0e75b6&style=flat" alt="gh9049" /> </p>
 <img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<h2> I'm a Sophomore pursuing Bachelors in Computer science. Spends time in learning new skills. A quick learner and performer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gh9049&label=Profile%20views&color=0e75b6&style=flat" alt="gh9049" /> </p>
 
-- 🌱 I’m currently learning ** Competitive programming **
+<h3>- 🌱 I’m currently learning ** Competitive programming **
 
 - 👨‍💻 Intrested in ** Cybersecurity and Ethical hacking **
 
 - 💬 Ask me about **C, C++ , Python , System administration**
 
 - 📫 How to reach me **gokavarapusaiharish@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+</h3>
+  
+  
+  
+<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
 <p align="left">
 <a href="https://linkedin.com/in/sai harish g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai harish g" height="30" width="40" /></a>
 <a href="https://instagram.com/saiharish_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiharish_g" height="30" width="40" /></a>
