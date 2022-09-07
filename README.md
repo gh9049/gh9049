@@ -39,12 +39,8 @@
   <img height="160em" src="https://github-readme-stats-git-master-manojuppala.vercel.app/api?username=gh9049&&show_icons=true&title_color=56db67&icon_color=3DEA6F&text_color=f2c744&bg_color=000000" />
 </a>
 </p>
+
 <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" height="40px">&nbsp; GitHub Streak</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh9049&show_icons=true&locale=en&layout=compact" alt="gh9049" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gh9049&show_icons=true&locale=en" alt="gh9049" /></p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gh9049&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/gh9049/gh9049/blob/output/github-contribution-grid-snake.svg)
+[![snake gif](https://github.com/gh9049/gh9049/blob/output/github-contribution-grid-snake.svg)](https://git.io/gh9049)
