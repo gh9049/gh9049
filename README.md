@@ -46,3 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gh9049&show_icons=true&locale=en" alt="gh9049" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gh9049&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![snake gif](https://github.com/ChetasShree/ChetasShree/blob/output/github-contribution-grid-snake.svg)
