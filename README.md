@@ -7,14 +7,14 @@
 <h2> I'm a Sophomore pursuing Bachelors in Computer science. Spends time in learning new skills. A quick learner and performer
 
 
-<h3>- 🌱 I’m currently learning ** Competitive programming **
+<h4>- 🌱 I’m currently learning ** Competitive programming **
 
 - 👨‍💻 Intrested in ** Cybersecurity and Ethical hacking **
 
 - 💬 Ask me about **C, C++ , Python , System administration**
 
 - 📫 How to reach me **gokavarapusaiharish@gmail.com**
-</h3>
+</h4>
   
   
   
