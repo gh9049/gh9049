@@ -20,7 +20,7 @@
   
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
 <p align="left">
-<a href="https://linkedin.com/in/sai harish g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai harish g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saiharishg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai harish g" height="30" width="40" /></a>
 <a href="https://instagram.com/saiharish_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiharish_g" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saiharish_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saiharish_g" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gh9049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gh9049" height="30" width="40" /></a>
